@@ -1,0 +1,43 @@
+_repo: Captain-Horace_25484
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25484-h/images/cover.jpg
+creator:
+  author:
+    agent_name: May, Sophie
+    alias: Clarke, Rebecca Sophia
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '3465'
+    url: http://www.gutenberg.org/2009/agents/3465
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_Sophia_Clarke
+description: 'BCR''s Shelf2Life American Civil War Collection is a unique and exciting
+  collection of pre-1923 titles focusing on the American Civil War and the people
+  and events surrounding it. From memoirs and biographies of notable military figures
+  to firsthand accounts of famous battles and in-depth discussions of slavery, this
+  collection is a remarkable opportunity for scholars and historians to rediscover
+  the experience and impact of the Civil War. The volumes contained in the collection
+  were all written within 60 years of the end of the war, which means that most authors
+  had living memory of it and were facing the effects of the war while writing. These
+  firsthand accounts allow the modern reader to more fully understand the culture
+  of both the Union and Confederacy, the politics that governed the escalation and
+  end of the war, the personal experience of life during the Civil War, and the most
+  difficult and polarizing question in the history of the United States: slavery.
+  The American Civil War Collection allows new readers access to the contemporary
+  arguments and accounts surrounding the war, and is a vital new tool in understanding
+  this important and pivotal chapter in American history.'
+gutenberg_issued: '2008-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+title: Captain Horace
+url: http://www.gutenberg.org/ebooks/25484
